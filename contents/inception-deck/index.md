@@ -6,11 +6,6 @@
 - 決定 : Keycloak の Realm ごとにインスタンスをデプロイする
 
 
-###### TODOS
-
-- システムアーキテクチャを作成
-
-
 ###### Table of Contents
 
 - [我々はぜここにいるのか？](#user-content-我々はぜここにいるのか？)
